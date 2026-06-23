@@ -79,4 +79,4 @@ test-git-01/
 
 ## License
 
-No license specified yet. Add one if you intend to share or open-source this beyond private use.
+This project is licensed under the [Apache License 2.0](LICENSE).
